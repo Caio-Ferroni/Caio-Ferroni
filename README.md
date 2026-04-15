@@ -1,31 +1,28 @@
-# Caio Ferroni Vilela
+# Olá, eu sou o Caio Ferroni! 👋
 
-🎓 **Estudante de Técnico em Informática - SENAC**
+### Desenvolvedor de Software Multiplataforma | Backend Enthusiast (PHP & Laravel)
 
----
-
-## Sobre Mim
-
-Sou um estudante dedicado do curso Técnico em Informática pelo SENAC. Tenho uma **aprendizagem rápida** e facilidade em trabalhar em **equipe**, sempre buscando crescimento pessoal e profissional na área de **desenvolvimento de software**.
+Sou estudante de Desenvolvimento de Software na Fatec Itaquera e técnico em informática pelo Senac. Tenho foco em construir soluções robustas no Backend, mas com sólido domínio de tecnologias Frontend para criar interfaces responsivas e funcionais.
 
 ---
 
-## Habilidades
-- ✅ Inglês Avançado 
-- ✅ Aprendizagem rápida  
-- ✅ Trabalho em equipe  
-- ✅ Interesse e dedicação em **Desenvolvimento de Software**  
+## 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** PHP, JavaScript (ES6+), HTML5, CSS3
+- **Frameworks/Libs:** Laravel, Bootstrap 5
+- **Banco de Dados:** MySQL
+- **Outros:** Manutenção de Hardware e Redes
 
 ---
 
-## Em Desenvolvimento
+## 📚 Educação & Certificações
 
-Atualmente estudando:
+- **Tecnologia em Desenv. de Software Multiplataforma** – Fatec Itaquera (Cursando)
+- **Técnico em Informática** – Senac São Miguel (Concluído)
 
-- Lógica de Programação  
-- Linguagens de Programação  
-- Desenvolvimento Web  
-- Banco de Dados   
+---
 
+## 📫 Como me encontrar
 
-
+- **LinkedIn:** [in/caio-ferroni](https://linkedin.com/in/caio-ferroni)
+- **Email:** caioferronivilela@gmail.com
